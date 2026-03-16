@@ -15,9 +15,6 @@ Core Competencies:
 
 Continuously expanding knowledge and exploring new challenges across all fields of computer science and data analytics.
 
-
-## Other Common Github Profile Sections
-
 🧠 I am currently finishing my degree studies, for which I have one academic year left and which I will validate with business internships in the first semester of next year. Furthermore, I am totally open to learning any other language or skill that I see necessary or required to perform a certain task.
 
 📫 How to reach me:

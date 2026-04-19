@@ -21,6 +21,7 @@ Continuously expanding knowledge and exploring new challenges across all fields 
 - +34 619 22 38 59
 - carlossborras@usal.es
 - carlosborras04@gmail.com
+- carlossborras@gmail.com
 
 
 
